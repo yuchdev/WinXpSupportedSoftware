@@ -15,7 +15,7 @@ and lack of security updates,
 avoid using it for internet browsing or any online exposure in general.
 If possible, keep it cut from the Internet most of the time.
 
-At the moment, my minimal list includes the following applications:
+At the moment, my minimal list includes the following applications and updates:
 
 * Latest security updates possible:
   * WSUS Offline February 2021: [ISO Image](https://archive.org/details/wsusoffline-wxp-enu_final); [Torrent file](https://archive.org/download/wsusoffline-wxp-enu_final/wsusoffline-wxp-enu_final_archive.torrent)
