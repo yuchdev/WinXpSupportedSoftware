@@ -1,4 +1,4 @@
-# List of latest supported Windows XP x86 SP3 software
+# List of latest supported Windows XP SP3 software
 
 The up-to-date list for whoever still use Windows XP x86, for old projects or retrogaming.
 Windows XP SP3 x86 offers decent compatibility of games of the period from the beginning of the Windows era,
