@@ -32,8 +32,8 @@ At the moment, my minimal list includes the following applications and updates:
   * [Firefox ESR 52.9.0](https://archive.org/details/firefox-setup-52.9.0esr_202110)
   * [Opera 36.0.2130](https://get.opera.com/pub/opera-winxpvista/36.0.2130.80/win/)
 * Archiver Tools
-  * [7zip 21.07](https://www.7-zip.org/a/7z2107.exe)
+  * [7Zip 21.07](https://www.7-zip.org/a/7z2107.exe)
 * Latest supported tools for system maintenance:
   * [CCleaner 5.64](https://download.ccleaner.com/sunset/ccsetup564_xp-vista.exe) 
   * [CCleaner Portable 5.27](https://ccleaner-portable.en.uptodown.com/windows/download/1481273)
-  * [BleachBit 2.2 Portable](https://sourceforge.net/projects/bleachbit/files/bleachbit/2.2/BleachBit-2.2-portable.zip/download)
+  * [BleachBit Portable 2.2](https://sourceforge.net/projects/bleachbit/files/bleachbit/2.2/BleachBit-2.2-portable.zip/download)
