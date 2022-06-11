@@ -35,6 +35,7 @@ At the moment, my minimal list includes the following applications and updates:
   * [Far File Manager 3.0.5706](https://github.com/FarGroup/FarManager/releases/download/ci%2Fv3.0.5706.1847/Far.x86.3.0.5706.1847.c616b5cbbd2eebd81e22dc2c7700620c6a3a63a4.msi)
   * [7Zip 21.07](https://www.7-zip.org/a/7z2107.exe)
 * Latest supported tools for system maintenance:
+  * [Rapid Environment Editor 9.2](https://www.rapidee.com/download/RapidEE_setup.exe)
   * [CCleaner 5.64](https://download.ccleaner.com/sunset/ccsetup564_xp-vista.exe) 
   * [CCleaner Portable 5.27](https://ccleaner-portable.en.uptodown.com/windows/download/1481273)
   * [BleachBit Portable 2.2](https://sourceforge.net/projects/bleachbit/files/bleachbit/2.2/BleachBit-2.2-portable.zip/download)
