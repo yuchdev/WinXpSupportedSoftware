@@ -31,7 +31,8 @@ At the moment, my minimal list includes the following applications and updates:
 * Better not to use the machine for internet browsing, but it's just nice to have a modern browser:
   * [Firefox ESR 52.9.0](https://archive.org/details/firefox-setup-52.9.0esr_202110)
   * [Opera 36.0.2130](https://get.opera.com/pub/opera-winxpvista/36.0.2130.80/win/)
-* Archiver Tools
+* File and Archive Tools
+  * [Far File Manager 3.0.5912](https://github.com/FarGroup/FarManager/releases/download/ci%2Fv3.0.5912.2516/Far.x86.3.0.5912.2516.70416c001a87d496d61077f027f1c80bc04e2430.msi)
   * [7Zip 21.07](https://www.7-zip.org/a/7z2107.exe)
 * Latest supported tools for system maintenance:
   * [CCleaner 5.64](https://download.ccleaner.com/sunset/ccsetup564_xp-vista.exe) 
