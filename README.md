@@ -29,6 +29,8 @@ At the moment, my minimal list includes the following applications and updates:
 * Code editor: [Notepad++ 7.9.2](https://notepad-plus-plus.org/downloads/v7.9.2/)
 * Simple and functional HEX-editor: [MH-Nexus HxD 2.5.0](https://mh-nexus.de/en/downloads.php?product=HxD20)
 * Better not to use the machine for internet browsing, but it's just nice to have a modern browser:
+  * [MyPal](https://www.mypal-browser.org/) browser, based on Firefox Quantum and PaleMoon, is the best actively supported browser for XP
+  * [K-meleon](http://kmeleonbrowser.org/) browser, another product designed for older systems, based on the Mozilla Gecko engine
   * [Firefox ESR 52.9.0](https://archive.org/details/firefox-setup-52.9.0esr_202110)
   * [Opera 36.0.2130](https://get.opera.com/pub/opera-winxpvista/36.0.2130.80/win/)
 * File and Archive Tools
