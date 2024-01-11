@@ -36,6 +36,9 @@ At the moment, my minimal list includes the following applications and updates:
 * File and Archive Tools
   * [Far File Manager 3.0.5706](https://github.com/FarGroup/FarManager/releases/download/ci%2Fv3.0.5706.1847/Far.x86.3.0.5706.1847.c616b5cbbd2eebd81e22dc2c7700620c6a3a63a4.msi)
   * [7Zip 21.07](https://www.7-zip.org/a/7z2107.exe)
+* Multimedia
+  * [VLC Media Player](https://www.videolan.org/vlc/download-windows.html) offers support for Windows XP SP3 as of January 2024
+  * [Winamp 5.622](http://www.oldversion.com/windows/winamp-5-622-full) music player
 * Latest supported tools for system maintenance:
   * [Rapid Environment Editor 9.2](https://www.rapidee.com/download/RapidEE_setup.exe)
   * [CCleaner 5.64](https://download.ccleaner.com/sunset/ccsetup564_xp-vista.exe) 
