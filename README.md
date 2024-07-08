@@ -41,6 +41,5 @@ At the moment, my minimal list includes the following applications and updates:
   * [Winamp 5.622](http://www.oldversion.com/windows/winamp-5-622-full) music player
 * Latest supported tools for system maintenance:
   * [Rapid Environment Editor 9.2](https://www.rapidee.com/download/RapidEE_setup.exe)
-  * [CCleaner 5.64](https://download.ccleaner.com/sunset/ccsetup564_xp-vista.exe) 
   * [CCleaner Portable 5.27](https://ccleaner-portable.en.uptodown.com/windows/download/1481273)
   * [BleachBit Portable 2.2](https://sourceforge.net/projects/bleachbit/files/bleachbit/2.2/BleachBit-2.2-portable.zip/download)
