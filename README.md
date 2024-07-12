@@ -24,6 +24,7 @@ At the moment, my minimal list includes the following applications and updates:
   * ~~DotNet 3.5~~ (included in WSUS ISO update)
   * ~~DotNet 4.0~~ (included in WSUS ISO update)
 * Lots of useful stuff comes with [SDK for Windows 7](https://www.microsoft.com/en-us/download/details.aspx?id=8442) (MS official ISO image, will be probably taken down soon)
+* Microsoft Visual Studio .NET 2003 Professional Edition [7z archive](https://archive.org/download/X10-38445/2004-04_X10-38445_X09-17449_VSPROD1.7z), [Torrent file](https://archive.org/download/X10-38445/X10-38445_archive.torrent)includes a lot, e.g. .NET 1.1 and Visual C++ 7.0
 * Java if someone needed: [Java 7 Update 5](http://www.oldversion.com/windows/download/java-platform-7-update-5)
 * ~~The latest PowerShell I witnessed working on XP was PowerShell 2.0~~ (included in WSUS ISO), I also found [PowerShell 1.0](https://download.cnet.com/Microsoft-Windows-PowerShell-1-0-for-Windows-XP/3000-2070_4-75450849.html)
 * Code editor: [Notepad++ 7.9.2](https://notepad-plus-plus.org/downloads/v7.9.2/)
